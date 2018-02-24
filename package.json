@@ -1,0 +1,31 @@
+{
+  "name": "grille-downloader",
+  "version": "0.0.1",
+  "description": "Download xlsx from GoogleSpeadSheet",
+  "main": "lib/downloader.js",
+  "directories": {},
+  "scripts": {},
+  "author": "Daigo Sato <daigo.gamemaker@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "googleapis": "^26.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wasedaigo/grille-xlsx.git"
+  },
+  "keywords": [
+    "google",
+    "spreadsheet",
+    "xlsx",
+    "download",
+    "drive",
+    "service account"
+  ],
+  "bugs": {
+    "url": "https://github.com/wasedaigo/grille-downloader/issues"
+  },
+  "homepage": "https://github.com/wasedaigo/grille-downloader"
+}
