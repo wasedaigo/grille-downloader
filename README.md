@@ -8,10 +8,6 @@ download xlsx from GoogleSpreadSheet
 ```
 
 ## Client Secret
-* Create a service account for GoogleDrive inside GoogleCloudConsole
-* You can create/download a client secret json file
-
-## Client Secret
 
 * Create a service account for GoogleDrive inside GoogleCloudConsole
 * You can create/download a client secret json file
