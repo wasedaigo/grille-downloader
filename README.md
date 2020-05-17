@@ -4,7 +4,9 @@ download xlsx from GoogleSpreadSheet
 ## Usage
 ```
   var Downloader = require('grille-downloader');
-  Downloader.download('[Google Drive FileID]', 'output.xlsx', 'client_secret.json');
+  Downloader.download('[Google Drive FileID]', 'output.xlsx', 'client_secret.json')
+  .then(data => {
+  });
 ```
 
 ## Client Secret
